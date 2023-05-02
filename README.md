@@ -1,4 +1,18 @@
-### Olá! Sou Gustavo Esch, um estudante de Python 👋
+### Olá! Sou Gustavo Esch, um estudante de Programação!👋
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gustavoesch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoesch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+<!--
+## 🌐 Redes:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/a6BaUvYeY3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/QuiraDon)
+-->
+
+
 
 <!--
 **gustavoesch/gustavoesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 🌐 Redes:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/a6BaUvYeY3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/QuiraDon)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gustavoesch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoesch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
