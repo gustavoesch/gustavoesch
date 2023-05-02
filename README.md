@@ -20,7 +20,7 @@
 
 
 
-![Snake animation](github-contribution-grid-snake.svg)
+![Snake animation](gustavoesch-snake.svg)
 
 
 <!--
