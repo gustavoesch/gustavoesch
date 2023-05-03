@@ -15,8 +15,10 @@
 <br>
 <p>
 ◉ Meu nome é <strong>Gustavo</strong>, tenho 14 anos e atualmente moro em São Paulo! Sou interessado por tecnologia e por aprender coisas novas.
-◉Atualmente estudo Python!
 </p> 
+<p>
+◉ Atualmente estudo Python!
+</p>
 
 
 
