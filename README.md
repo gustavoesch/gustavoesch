@@ -12,14 +12,7 @@
 </div>
 
 
-<br>
-<p>
-◉ Meu nome é <strong>Gustavo</strong>, tenho 14 anos e atualmente moro em São Paulo! Sou interessado por tecnologia e por aprender coisas novas.
-</p> 
-<p>
-◉ Atualmente estudo Python!
-</p>
-
+<h3 align="center"> Meu nome é <strong>Gustavo</strong>, tenho 14 anos e atualmente moro em São Paulo! Sou interessado por tecnologia e por aprender coisas novas. </h3>
 
 
 </br>
