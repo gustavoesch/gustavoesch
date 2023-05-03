@@ -1,5 +1,5 @@
-<h1> Olá! Sou Gustavo Esch, um estudante de Programação!👋 </h1>
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center"> Olá pessoal!👋 </h1>
+<h3 align="center">Linguagens e Ferramentas:</h3>
 
 <div align="center">
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -11,6 +11,16 @@
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
+
+<br>
+<p>
+◉ Meu nome é <strong>Gustavo</strong>, tenho 14 anos e atualmente moro em São Paulo! Sou interessado por tecnologia e por aprender coisas novas.
+◉Atualmente estudo Python!
+</p> 
+
+
+
+</br>
 
 ## 📊 My Github Stats
 
